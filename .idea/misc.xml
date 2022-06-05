@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CodeLabs/Android/TradePlan/app/src/main/res/layout/activity_form.xml" value="0.35833333333333334" />
+        <entry key="..\:/CodeLabs/Android/TradePlan/app/src/main/res/layout/list_item_card.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Standalone/AndroidStudioProjects/TradePlan/app/src/main/res/drawable/divider.xml" value="0.2985" />
+        <entry key="..\:/Users/Standalone/AndroidStudioProjects/TradePlan/app/src/main/res/drawable/ic_baseline_delete.xml" value="0.2985" />
+        <entry key="..\:/Users/Standalone/AndroidStudioProjects/TradePlan/app/src/main/res/drawable/ic_baseline_edit.xml" value="0.2985" />
+        <entry key="..\:/Users/Standalone/AndroidStudioProjects/TradePlan/app/src/main/res/layout/activity_form.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Standalone/AndroidStudioProjects/TradePlan/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Standalone/AndroidStudioProjects/TradePlan/app/src/main/res/layout/list_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Standalone/AndroidStudioProjects/TradePlan/app/src/main/res/layout/list_item_card.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Standalone/AndroidStudioProjects/TradePlan/app/src/main/res/xml/string.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Trade Plan</string>
+    <string name="date">dd-mm-YYYY</string>
+    <string name="zero">100</string>
+    <string name="none">None</string>
+    <string name="percent">(100 %)</string>
+    <string name="lb_short_entry">EP</string>
+    <string name="lb_short_target">TP</string>
+    <string name="lb_short_stop">SL</string>
+    <string name="lb_percent">%</string>
+    <string name="lb_symbol">Symbol</string>
+    <string name="lb_quantity">Quantity</string>
+    <string name="lb_entry">Entry Price</string>
+    <string name="lb_target">Target Price</string>
+    <string name="lb_stop">Stop Loss</string>
+    <string name="lb_setups">Setups</string>
+    <string name="lb_submit">Submit</string>
+    <string name="lb_risk">Gain Loss Ratio</string>
+    <string name="risk_0">Auto</string>
+    <string name="risk_1">1 : 2</string>
+    <string name="risk_2">1 : 3</string>
+    <string name="lb_date">Date(dd-mm-YYYY)</string>
+</resources>
